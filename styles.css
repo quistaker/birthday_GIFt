@@ -62,7 +62,7 @@ a {
     margin: 20px auto;
     max-width: 400px;
     height: 400px;
-    border: 6px solid white;
+    border: 6px solid rgb(164, 52, 33);
     border-radius: 10px;
     background-image: url("media/present-box.jpeg");
 
